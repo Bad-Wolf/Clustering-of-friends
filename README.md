@@ -1,2 +1,3 @@
-## Work in progress
+## Unsupervised and semi-supervised clustering of friends
 ### Final project for machine learning course at Software University
+We use unweighed undirected graphs to represent connections between people and visualize the clustering between them. Different metrics are used to compare optimal and hierarchical community detection methods. In addition, we explore a semi-supervised location-based approach with label propagation. Finally, we do graph embedding with Node2Vec and use k-means for clustering.
